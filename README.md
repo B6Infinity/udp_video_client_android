@@ -1,6 +1,6 @@
 # Digident - Futuristic Device for Dental Care🪥
 
-Digident is a full-stack application that connects to the Digident Device using a UDP connection (wireless) to access the camera and process data frames. It provides proper analysis about dental health via the application.
+This is a full-stack application that connects to a device using a UDP connection (wireless over the Local Area Network scope) to access the camera and process data frames.
 
 ## Getting Started
 
@@ -79,4 +79,4 @@ If you would like to contribute to this project, please follow these steps:
 
 ## About Us
 
-This project is created by the Students of IIITDM Jabalpur under the mentorship of **Dr. Punnet Tandon**.
+This project is created by the Students of IIITDM Jabalpur under the mentorship of **Prof. Punnet Tandon** and **Prof. Pritee Khanna**.
